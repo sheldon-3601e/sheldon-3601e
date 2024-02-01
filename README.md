@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheldon-3601e&show_icons=true&theme=shadow_green&hide=Stars_Earned) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e)](https://github.com/sheldon-3601e) |
-|---|---|
+**sheldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👋 Hi there, I'm sheldon! I'm a university student majoring in backend development, with a strong focus on Java. Currently, I'm expanding my skills by learning Python and delving into frontend development. I'm comfortable working with both React and Vue frameworks to develop simple web pages.
+
+- 🌱 I’m currently learning Python to broaden my programming language repertoire.
+- 💬 Ask me about anything related to backend development in Java, or my experiences learning Python and frontend development!
+- 📫 How to reach me: sheldon_kkk@126.com
+- ⚡ Fun fact: In my free time, I enjoy experimenting with new programming languages and frameworks, as well as playing video games.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheldon-3601e&show_icons=true&theme=shadow_green&hide=Stars_Earned" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e" alt="Top Langs" />
+</p>
+
