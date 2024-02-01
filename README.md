@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sheldon_kkk@126.com
 - ⚡ Fun fact: In my free time, I enjoy experimenting with new programming languages and frameworks, as well as playing video games.
 
-<div style="display: flex; justify-content: center;">
-  <div style="width: 70%;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 70%;">
     <img src="https://github-readme-stats.vercel.app/api?username=sheldon-3601e&show_icons=true&theme=shadow_green&hide=Stars_Earned" alt="Anurag's GitHub stats" />
   </div>
-  <div style="width: 30%;">
+  <div style="flex: 30%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e" alt="Top Langs" />
   </div>
 </div>
+
 
