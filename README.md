@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: In my free time, I enjoy experimenting with new programming languages and frameworks, as well as playing video games.
 
 <div style="display: flex; flex-wrap: nowrap;">
-  <div style="width: 70%;">
-    <img src="https://wakatime.com/share/@018d64cd-0960-4dea-92b6-7b4179d8465b/23d6613d-85a8-45d3-bfdd-c34b62ac55fa.svg" alt="Anurag's GitHub stats" />
-  </div>
   <div style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e" alt="Top Langs" />
   </div>
