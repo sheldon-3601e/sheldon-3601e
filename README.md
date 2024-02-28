@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 <!--
 **sheldon-3601e/sheldon-3601e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there, I'm sheldon! I'm a university student majoring in backend development, with a strong focus on Java. Currently, I'm expanding my skills by learning Python and delving into frontend development. I'm comfortable working with both React and Vue frameworks to develop simple web pages.
+👋 I'm sheldon! I'm a university student majoring in backend development, with a strong focus on Java. Currently, I'm expanding my skills by learning Python and delving into frontend development. I'm comfortable working with both React and Vue frameworks to develop simple web pages.
 
 - 🌱 I’m currently learning Python to broaden my programming language repertoire.
 - 💬 Ask me about anything related to backend development in Java, or my experiences learning Python and frontend development!
