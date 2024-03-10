@@ -5,12 +5,11 @@ I'm a university student majoring in backend development, with a strong focus on
 - 💬 Ask me about anything related to backend development in Java, or my experiences learning Python and frontend development!
 - 📫 How to reach me: sheldon_kkk@126.com
 - ⚡ Fun fact: In my free time, I enjoy experimenting with new programming languages and frameworks, as well as playing video games.
-- Let's connect and learn together! 😄
+
+Let's connect and learn together! 😄
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e)https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-3601e" alt="Logo" width="80" height="80">
-  </a>
+  <figure><embed src="https://wakatime.com/share/@018d64cd-0960-4dea-92b6-7b4179d8465b/00f96794-89ed-434a-b520-c54858d28b25.svg"></embed></figure>
 </div>
 
 
