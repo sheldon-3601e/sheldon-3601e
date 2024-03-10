@@ -8,9 +8,7 @@ I'm a university student majoring in backend development, with a strong focus on
 
 Let's connect and learn together! 😄
 
-<div align="center">
   <figure><embed src="https://wakatime.com/share/@018d64cd-0960-4dea-92b6-7b4179d8465b/00f96794-89ed-434a-b520-c54858d28b25.svg"></embed></figure>
-</div>
 
 
 
